@@ -1,6 +1,6 @@
 # Ecoacoustics
 
-This repository contains some code to process .wav files and explore correlations between the perodicity of ecoacoustic variables and certain celestial cycles.
+This repository contains some code to process _.wav_ files and explore correlations between the perodicity of ecoacoustic variables and certain celestial cycles.
 Featuring tools:
   * **[ROOT](https://root.cern/)**
   * fftw
