@@ -9,5 +9,5 @@ This repository contains some code that I wrote/used to process .wav files in or
   * [Bioacoustics](https://n9.cl/y6m6f)
   * [E-BIOSA group](https://n9.cl/28yu)
  
-![Front image](https://github.com/hol1m4n/Ecoacoustics/blob/main/Images/Raw35.png)
+![Front image](https://github.com/hol1m4n/sky_ecosound/blob/main/plots/Raw35.png)
 
