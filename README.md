@@ -5,7 +5,7 @@ This repository contains some code that I wrote/used to process .wav files in or
 * Publications
   * [Thesis](https://repository.unilibre.edu.co/handle/10901/19655)
   * [Article](https://repository.unilibre.edu.co/bitstream/handle/10901/19266/Un%20Camino%20a%20la%20Sustentabilidad.pdf?sequence=4#page=151)
-* Info about the research group
+* More info
   * [Bioacoustics](https://n9.cl/y6m6f)
   * [E-BIOSA group](https://n9.cl/28yu)
  
